@@ -1,0 +1,13 @@
+{
+  "name": "grocery-list-app",
+  "version": "1.0.0",
+  "scripts": {},
+  "keywords": [],
+  "author": "YOUR_NAME <YOUR_EMAIL>",
+  "license": "ISC",
+  "description": "YOUR_DESCRIPTION",
+  "dependencies": {
+    "webpack": "^5.77.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
