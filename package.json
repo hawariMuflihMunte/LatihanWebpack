@@ -9,7 +9,7 @@
     "serve": "webpack serve"
   },
   "keywords": [],
-  "author": "YOUR_NAME <YOUR_EMAIL>",
+  "author": "Hawari Muflih Munte <hawari.muflih.munte@gmail.com>",
   "license": "ISC",
   "description": "My webpack project",
   "devDependencies": {
